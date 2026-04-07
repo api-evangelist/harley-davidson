@@ -1,7 +1,11 @@
 aid: harley-davidson
-url: https://raw.githubusercontent.com/api-evangelist/harley-davidson/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/harley-davidson/refs/heads/main/apis.yml
 modified: '2026-03-24'
 apis: []
 common:
   - type: Website
     url: https://www.harley-davidson.com
+description: >-
+  Shop the Official Harley-Davidson site for new & used motorcycles, genuine parts
+  & apparel. Locate a dealer or take a test ride. Free Shipping +$50 for members.
