@@ -24,9 +24,9 @@ common:
     url: https://www.harley-davidson.com/us/en/tools/find-a-dealer.html
   - type: Customer Service
     url: https://www.harley-davidson.com/us/en/about-us/contact-us.html
-  - type: Privacy Policy
+  - type: PrivacyPolicy
     url: https://www.harley-davidson.com/us/en/about-us/privacy.html
-  - type: Terms of Service
+  - type: TermsOfService
     url: https://www.harley-davidson.com/us/en/about-us/legal/terms-and-conditions.html
 maintainers:
   - FN: Kin Lane
