@@ -18,6 +18,8 @@ modified: '2026-04-28'
 specificationVersion: '0.19'
 apis: []
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/harley-davidson-motor-company
   - type: Website
     url: https://www.harley-davidson.com
   - type: Dealer Locator
