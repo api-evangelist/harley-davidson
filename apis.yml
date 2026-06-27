@@ -25,7 +25,7 @@ common:
     url: https://www.harley-davidson.com
   - type: Dealer Locator
     url: https://www.harley-davidson.com/us/en/tools/find-a-dealer.html
-  - type: Customer Service
+  - type: Support
     url: https://www.harley-davidson.com/us/en/about-us/contact-us.html
   - type: PrivacyPolicy
     url: https://www.harley-davidson.com/us/en/about-us/privacy.html
