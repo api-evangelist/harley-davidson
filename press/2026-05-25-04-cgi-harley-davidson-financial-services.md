@@ -1,7 +1,9 @@
 ---
 title: CGI - Harley-Davidson Financial Services ...
 url: https://www.facebook.com/CGIGroup/photos/harley-davidson-financial-services-harley-davidson-selects-cgi-to-modernize-thei/943058697854185/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Harley-Davidson" press release artificial intelligence'
 position: 4
 source: serpapi-google

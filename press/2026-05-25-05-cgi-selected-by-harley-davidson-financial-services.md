@@ -1,7 +1,9 @@
 ---
 title: CGI selected by Harley-Davidson Financial Services ...
 url: https://www.cgi.com/au/en-au/banking-and-financial-markets/harley-davidson-financial-services-selects-cgi-to-streamline-loan-origination-system
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Harley-Davidson" press release artificial intelligence'
 position: 5
 source: serpapi-google
